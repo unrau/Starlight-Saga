@@ -1,12 +1,27 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:\"Brainstorming\", -path:\"Resources\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Lore",
+      "color": {
+        "a": 1,
+        "rgb": 6083798
+      }
+    },
+    {
+      "query": "path:\"PART 1 - Dark Vector\"",
+      "color": {
+        "a": 1,
+        "rgb": 13129241
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0593938560304972,
+  "scale": 0.6781988748689786,
   "close": false
 }
