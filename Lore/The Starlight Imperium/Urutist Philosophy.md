@@ -1,3 +1,7 @@
+---
+aliases: [Urutism]
+---
+
 [[Urutism]] was the work of the first Star Emperor, Urute Vante. It is founded on these principles, which have remained sacrosanct and unbroken throughout the entire history of the [[Starlight Imperium]]:
 
 1. Far Thought

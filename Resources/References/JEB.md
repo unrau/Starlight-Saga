@@ -1,1 +1,1 @@
-See [[Trisolar Joint Enforcement Bureau (JEB)]].
+See [[Joint Enforcement Bureau]].

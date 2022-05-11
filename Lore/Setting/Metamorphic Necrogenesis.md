@@ -1,3 +1,7 @@
+---
+aliases: [Necromorphic, Necromorph, Undead, Undeath]
+---
+
 # Metamorphic Necrogenesis
 Undead -> Necromorph
 Undeath -> Metamorphic Necrogenesis

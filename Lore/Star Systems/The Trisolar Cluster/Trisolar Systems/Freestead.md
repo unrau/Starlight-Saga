@@ -1,4 +1,8 @@
-Freestead is a star system in the [[Trisolar Cluster]].
+---
+aliases: [Raengeis]
+---
+
+Freestead is a star system in the [[Trisolar Cluster]]. Called Raengeis during the time of the Starlight Imperium.
 
 > # Summary of Freestead System
 > The Freestead system was founded on the principles of personal liberty and the right of homesteading. It is both the wild west and the slums of the [[Trisolar cluster]], notorious for its outlaw activity.

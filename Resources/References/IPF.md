@@ -1,1 +1,0 @@
-See [[Interplanetary Forces (IPF)]], or its governing body, the [[Trisolar Systems Alliance (TSSA)]].

@@ -1,1 +1,0 @@
-See [[TSSA Quorum]].
