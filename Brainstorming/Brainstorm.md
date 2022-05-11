@@ -1,7 +1,7 @@
-##### Decision Consequences:
+## Decision Consequences:
 - Have one or two player decisions in each session contribute to a change at the ending.
 
-##### Chapter Summaries:
+## Chapter Summaries:
 
 1.  PCs find & board the Corsairius, and fight [[Dark Vector]] crew. [[Dark Vector]] escapes.
 2.  PCs find the hidden battle frames, and are inducted as Corsairs.
@@ -9,9 +9,9 @@
 4.  PCs enter the Maw, have epic battle, are contacted by Imperium remnants.
 5.  PCs travel to the Sepulchre Star, and team up with two other Corsarius platforms to defeat the [[Dark Vector]] and kill the [[Wrassa]] Brain.
 
-CHAPTER LOCATIONS
+## CHAPTER LOCATIONS
 
-##### STORY POINTS
+## STORY POINTS
 
 The [[Maws]] were a part of the [[Wrassa]] organism, which fed upon stars, and assimilated the life it encountered into its hive mind.
 
