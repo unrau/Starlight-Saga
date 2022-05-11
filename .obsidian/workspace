@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "6c14ac96b04bd794",
+    "id": "e2f0f81a9423ef0a",
     "type": "split",
     "children": [
       {
-        "id": "069fbd7a6d8ec4c5",
+        "id": "92bacfc723e8736c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,45 +18,52 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "270e46dbb18713b8",
-    "type": "mobile-drawer",
+    "id": "04d83f1e9b8952dd",
+    "type": "split",
     "children": [
       {
-        "id": "209f781a6347f119",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "8c04b602a81e4853",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          }
-        }
-      }
-    ],
-    "currentTab": 0
-  },
-  "right": {
-    "id": "509c3cef0f2fc24f",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "a408ac61ba7d0efb",
+        "id": "9aefaec21c5e36ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9bf96fc4c53cbd96",
+            "id": "43f6aa2b7ca39cb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "41e9fc0338d06a9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0710f32781131649",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8ec43dd25ba3fdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce68f1776e9b092b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -72,23 +79,15 @@
               }
             }
           }
-        }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "069fbd7a6d8ec4c5",
+  "active": "92bacfc723e8736c",
   "lastOpenFiles": [
-    "PART 1 - Dark Vector/ACT 1 - Acolytes/PART 1 - ACT 1 - SCENE 1.md",
-    "PART 1 - Dark Vector/ACT 1 - Acolytes/Act 1 DM Overview.md",
-    "Lore/Ships/MS Chiron.md",
-    "Resources/References/Table 1.1 - Club Far Out Encounters.md",
-    "Lore/NPCs/Living/Archibald Ironhand.md",
-    "Lore/NPCs/Living/Garlen Corivan.md",
-    "Lore/NPCs/Living/Finerand Ironhand.md",
-    "Lore/Star Systems/The Trisolar Cluster/Trisolar Systems/Leo's Run.md",
-    "Resources/References/Sun River.md",
-    "Lore/Ships/Club Far Out.md"
+    "PART 1 - Dark Vector/ACT 1 - Acolytes/PART 1 - ACT 1 - SCENE 1.md"
   ]
 }
