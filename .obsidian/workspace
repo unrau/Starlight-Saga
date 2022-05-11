@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "6c14ac96b04bd794",
+    "type": "split",
+    "children": [
+      {
+        "id": "069fbd7a6d8ec4c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Brainstorming/Brainstorm.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9cc2939c8e1e72b",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d00b3a68692ce2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28f8cd30c1b3710f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "421d2cfba5e7a024",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e170c18fab92332d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a633787d85c486cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51b9e3140bbe720e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Brainstorming/Brainstorm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "069fbd7a6d8ec4c5",
+  "lastOpenFiles": [
+    "Brainstorming/Brainstorm.md"
+  ]
+}
