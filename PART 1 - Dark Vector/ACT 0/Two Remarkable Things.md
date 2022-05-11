@@ -4,7 +4,7 @@ Wherever you are in this moment, living your regular life, just like any other d
 
 "Breaking news. Exploration ship gone rogue strikes again! I'm [[Loramane Val'faan]], on location amidst the ruins of destruction. This. Is [[Radio Free Galactic]]."
 
-"Another day, another tragedy. Vacationers and employees alike on the famous resort asteroid Club Far Out were shaken awake this morning by a hail of weapons fire from the rogue ship '[[Dark Vector]]', as its murderous crew continues to haunt the galaxy, and our very minds. Over nine hundred confirmed dead, as the weapons penetrated the resort's plexi-dome, bringing the total kill count to nearly six thousand souls."
+"Another day, another tragedy. Vacationers and employees alike on the famous resort asteroid [[Club Far Out]] were shaken awake this morning by a hail of weapons fire from the rogue ship '[[Dark Vector]]', as its murderous crew continues to haunt the galaxy, and our very minds. Over nine hundred confirmed dead, as the weapons penetrated the resort's plexi-dome, bringing the total kill count to nearly six thousand souls."
 
 "Joining me now is [[IPF]] Detective Inspector [[Ryen Ramiken]], who leads the investigation into the nature and reasons for these attacks."
 

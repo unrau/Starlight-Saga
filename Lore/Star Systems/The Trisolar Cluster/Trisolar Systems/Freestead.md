@@ -21,3 +21,9 @@ The SCS members bid for seats on the [[Quorum]] via monetary auction, where proc
 * Kameren Picerien
 * [[Finerand Ironhand]]
 * Ro Pistachio
+
+# Noteable Settlements
+
+## Sun River
+
+## Bob

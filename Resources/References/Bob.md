@@ -1,0 +1,1 @@
+A planet in the [[Freestead]] system, containing a large city of the same name.

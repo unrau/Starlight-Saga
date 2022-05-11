@@ -1,0 +1,1 @@
+A famous luxury cruise ship that tours locales throughout the [[Trisolar Cluster]].

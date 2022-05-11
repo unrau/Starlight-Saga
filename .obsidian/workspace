@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brainstorming/Brainstorm.md",
-            "mode": "preview"
+            "file": "PART 1 - Dark Vector/ACT 1 - Acolytes/PART 1 - ACT 1 - SCENE 1.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brainstorming/Brainstorm.md",
+                "file": "PART 1 - Dark Vector/ACT 1 - Acolytes/PART 1 - ACT 1 - SCENE 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "069fbd7a6d8ec4c5",
   "lastOpenFiles": [
-    "Brainstorming/Brainstorm.md",
-    "Brainstorming/Ideas for Future Adventures.md",
-    "PART 1 - Dark Vector/ACT 1 - Acolytes/Act 1 DM Overview.md",
     "PART 1 - Dark Vector/ACT 1 - Acolytes/PART 1 - ACT 1 - SCENE 1.md",
-    "Brainstorming/Inspirations.md",
-    "DM Info/Anima.md",
-    "DM Info/Arcanic Sciences.md",
-    "DM Info/Metamorphic Necrogenesis.md",
-    "README.md"
+    "PART 1 - Dark Vector/ACT 1 - Acolytes/Act 1 DM Overview.md",
+    "Lore/Ships/MS Chiron.md",
+    "Resources/References/Table 1.1 - Club Far Out Encounters.md",
+    "Lore/NPCs/Living/Archibald Ironhand.md",
+    "Lore/NPCs/Living/Garlen Corivan.md",
+    "Lore/NPCs/Living/Finerand Ironhand.md",
+    "Lore/Star Systems/The Trisolar Cluster/Trisolar Systems/Leo's Run.md",
+    "Resources/References/Sun River.md",
+    "Lore/Ships/Club Far Out.md"
   ]
 }

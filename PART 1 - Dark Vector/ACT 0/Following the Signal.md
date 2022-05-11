@@ -2,7 +2,7 @@ The following combination of table rolls and Mad Lib will form the skeleton of t
 
 This is optional. A player can invent their own backstory, or keep it secret or vague, if they wish.
 
-Crucially, one player must be chosen, or volunteer, for another set backstory. This character was aboard the famous luxory cruise ship Club Far Out, when it was attacked by the [[Dark Vector]]. This occured before the Imperium's recruitment signal went out, but because of the radiation cloud around the ruins of the ship, and the safe-seal emergency survival shelter that the character has been hiding in, this character has only heard faint occasional glimpses of the signal, and only feels a pull toward the other characters when they get close to the ruins of Club Far Out. When the story begins, they have been sheltering there, waiting for rescue, for several weeks.
+Crucially, one player must be chosen, or volunteer, for another set backstory. This character was aboard the famous luxory cruise ship [[Club Far Out]], when it was attacked by the [[Dark Vector]]. This occured before the Imperium's recruitment signal went out, but because of the radiation cloud around the ruins of the ship, and the safe-seal emergency survival shelter that the character has been hiding in, this character has only heard faint occasional glimpses of the signal, and only feels a pull toward the other characters when they get close to the ruins of [[Club Far Out]]. When the story begins, they have been sheltering there, waiting for rescue, for several weeks.
 
 CIRCUMSTANCE
 ```table
