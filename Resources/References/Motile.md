@@ -1,0 +1,1 @@
+A physically disconnected limb or body of the hive-mind life form [[Wrassa]].

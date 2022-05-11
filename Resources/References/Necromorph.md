@@ -1,0 +1,1 @@
+A life form that has died and returned to life, transformed in a process of [[Metamorphic Necrogenesis]].

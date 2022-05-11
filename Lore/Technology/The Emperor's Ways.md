@@ -1,0 +1,1 @@
+A proprietary intergalactic transit system used by the [[Starlight Imperium]]. It was created during the 2nd Eon, and fell out of use after the fall of the Imperium and the relative freedom and ease of use of the [[Maws]].

@@ -1,0 +1,3 @@
+Draconic is a language designed to enhance one's thinking patterns in a certain direction, created by the Lacertian Order as a monastic and meditative language, which also happens to be useful to the military wings thaks to it's mindfulness and carefully constructed thought-altering nature.
+
+Draconic is also designed to attune to the arcane field in unique ways, making it a potent language for proprietary spellcasting.

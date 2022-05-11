@@ -1,0 +1,1 @@
+The [[Trisolar cluster]] is located in close proximity to a large Null AF Zone that is slowly drifting toward Trisolar space, and is expected to intersect in approximately 200,000 years.

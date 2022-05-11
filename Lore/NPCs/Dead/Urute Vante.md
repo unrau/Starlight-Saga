@@ -1,0 +1,1 @@
+The first [[Star Emperor]], uniter of the Galaxy, founder of the [[Starlight Imperium]].
