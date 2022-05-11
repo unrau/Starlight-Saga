@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Brainstorming/Ideas for Future Adventures.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d9cc2939c8e1e72b",
+    "id": "43fcff14f9886228",
     "type": "split",
     "children": [
       {
-        "id": "85d00b3a68692ce2",
+        "id": "77d93d614b4c6301",
         "type": "tabs",
         "children": [
           {
-            "id": "28f8cd30c1b3710f",
+            "id": "ce4b8a96da6e5636",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "421d2cfba5e7a024",
+            "id": "3ac2f1e0b4b525e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "e170c18fab92332d",
+    "id": "895e510a0e50804a",
     "type": "split",
     "children": [
       {
-        "id": "a633787d85c486cc",
+        "id": "a408ac61ba7d0efb",
         "type": "tabs",
         "children": [
           {
-            "id": "51b9e3140bbe720e",
+            "id": "9bf96fc4c53cbd96",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Brainstorming/Ideas for Future Adventures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "069fbd7a6d8ec4c5",
   "lastOpenFiles": [
-    "README.md",
-    "Brainstorming/Brainstorm.md"
+    "Brainstorming/Ideas for Future Adventures.md",
+    "Brainstorming/Brainstorm.md",
+    "README.md"
   ]
 }
