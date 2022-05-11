@@ -3,14 +3,14 @@
 As decided in Session Zero, one player character has spent the past few weeks trapped on the ruins of the luxury cruise ship [[Club Far Out]], which was destroyed by the [[Dark Vector]]. The radiation cloud surrounding the ruins, and the secure-seal of the emergency shelter they have been hiding in, has prevented the [[Starlight Imperium]]’s recruitment signal from reaching them; and thus prevented the [[Dark Vector]] from honing in on their location.
 
 
-
-The MS Chiron is making slow progess in rescuing the survivors of Club Far Out. Hindering this progess are:
-- Paparazzi, who harrass medical personnel with click-bait questions, and hog the comm channels with live stream broadcasts.
-- Scavengers, who scour the ruins for valueables and ransom targets, mostly disguised as civilian vessels offering aid.
-- Actual civilian vessels offering aid.
-- Insurance Adjustors, who document the scene to avoid insurance payouts.
-- [[IPF]] and [[JEB]] Agents, who argue over investigative jurisdiction.
-- Disaster Tourists, who get off on destuction and try to collect souveniers.
+> [!INFO] The Scene
+> The MS Chiron is making slow progess in rescuing the survivors of Club Far Out. Hindering this progess are:
+>- Paparazzi, who harrass medical personnel with click-bait questions, and hog the comm channels with live stream broadcasts.
+>- Scavengers, who scour the ruins for valueables and ransom targets, mostly disguised as civilian vessels offering aid.
+>- Actual civilian vessels offering aid.
+>- Insurance Adjustors, who document the scene to avoid insurance payouts.
+>- [[IPF]] and [[JEB]] Agents, who argue over investigative jurisdiction.
+>- Disaster Tourists, who get off on destuction and try to collect souveniers.
 
 Addressing the player trapped aboard [[Club Far Out]]:
 
