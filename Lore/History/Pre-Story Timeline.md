@@ -3,7 +3,7 @@
 # THE END OF THE [[WRASSA]] WAR:
 > For events prior to this, see [[History of the Imperium Timeline]].
 
-[[Anas Ooma Veda]], 84th Star Emperor, in the 24076th Year of the [[Starlight Imperium]], ordered the construction of a mighty weapon to defeat the vile and multitudous [[Wrassa]]. This weapon consisted of a host starship "tower" section with several battleframes attached to the outside: the Corsairius and its Corsairs. The key to this weapon were quarantine devices that created Null Fields in space; preventing localised access to the [[Arcane Field]], and thus able to sever [[Wrassa]]’s various mind nodes from one another. Three [[Corsairius class]] starships were constructed, representing the Emperium’s core values:
+[[Anas Ooma Veda]], 84th [[Star Emperor]], in the 24076th Year of the [[Starlight Imperium]], ordered the construction of a mighty weapon to defeat the vile and multitudous [[Wrassa]]. This weapon consisted of a host starship "tower" section with several battleframes attached to the outside: the Corsairius and its Corsairs. The key to this weapon were quarantine devices that created Null Fields in space; preventing localised access to the [[Arcane Field]], and thus able to sever [[Wrassa]]’s various mind nodes from one another. Three [[Corsairius class]] starships were constructed, representing the Emperium’s core values:
 
 -   [[Agency of Thought]], representing scientific knowledge and individual agency (Dialectical Discovery)
 -   [[Might of Myriad]], representing security and stability (Secure Foundation)

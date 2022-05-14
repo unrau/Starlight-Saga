@@ -9,7 +9,7 @@ As decided in Session Zero, one player character has spent the past few weeks tr
 >- Scavengers, who scour the ruins for valueables and ransom targets, mostly disguised as civilian vessels offering aid.
 >- Actual civilian vessels offering aid.
 >- Insurance Adjustors, who document the scene to avoid insurance payouts.
->- [[IPF]] and [[JEB]] Agents, who argue over investigative jurisdiction.
+>- [[Interplanetary Forces|IPF]] and [[Joint Enforcement Bureau|JEB]] Agents, who argue over investigative jurisdiction.
 >- Disaster Tourists, who get off on destuction and try to collect souveniers.
 
 Addressing the player trapped aboard [[Club Far Out]]:

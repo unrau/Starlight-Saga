@@ -26,3 +26,6 @@ Uses:
 	- Arcanic Necromorphics (Necromancy)
 - Arcanic Engineering
 - Arcanic Phenomena
+
+## How life forms are able to channel energy from the Arcane Field
+See the **Relationship with Arcana** section in the page about [[Fade|Fades]].

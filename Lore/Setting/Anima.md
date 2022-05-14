@@ -1,1 +1,0 @@
-The outdated concept of the soul is more scientifically described as an organ, called the Anima, and is made of Animatic Quanta.
